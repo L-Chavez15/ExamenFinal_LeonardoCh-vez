@@ -13,6 +13,12 @@ namespace Ejecuciòn_LC
         {
             Matriz_LC matriz = new Matriz_LC();
             matriz.CreacionL();
+            matriz.CreacionM();
+            matriz.CreacionMi();
+            matriz.CreacionJ();
+            matriz.CreacionV();
+            matriz.CreacionS();
+            matriz.CreacionD();
             matriz.mostrar();
         }
     }
