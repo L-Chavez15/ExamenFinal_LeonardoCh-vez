@@ -19,7 +19,6 @@ namespace MiBiblioteca_LC
             for (int i = 0; i < espacios.GetLength(0); i++)
             {
                 int precios = r.Next(0, 21);
-                //Console.WriteLine("ARTÍCULO "+(i+1)+ ": " + precios);
                 espacios[i, col] = precios;
             }
         }
@@ -29,7 +28,6 @@ namespace MiBiblioteca_LC
             for (int i = 0; i < espacios.GetLength(0); i++)
             {
                 int precios = r.Next(0, 21);
-                //Console.WriteLine("ARTÍCULO "+(i+1)+ ": " + precios);
                 espacios[i, col] = precios;
             }
         }
@@ -39,7 +37,6 @@ namespace MiBiblioteca_LC
             for (int i = 0; i < espacios.GetLength(0); i++)
             {
                 int precios = r.Next(0, 21);
-                //Console.WriteLine("ARTÍCULO "+(i+1)+ ": " + precios);
                 espacios[i, col] = precios;
             }
         }
@@ -49,7 +46,6 @@ namespace MiBiblioteca_LC
             for (int i = 0; i < espacios.GetLength(0); i++)
             {
                 int precios = r.Next(0, 21);
-                //Console.WriteLine("ARTÍCULO "+(i+1)+ ": " + precios);
                 espacios[i, col] = precios;
             }
         }
@@ -59,7 +55,6 @@ namespace MiBiblioteca_LC
             for (int i = 0; i < espacios.GetLength(0); i++)
             {
                 int precios = r.Next(0, 21);
-                //Console.WriteLine("ARTÍCULO "+(i+1)+ ": " + precios);
                 espacios[i, col] = precios;
             }
         }
@@ -69,7 +64,6 @@ namespace MiBiblioteca_LC
             for (int i = 0; i < espacios.GetLength(0); i++)
             {
                 int precios = r.Next(0, 21);
-                //Console.WriteLine("ARTÍCULO "+(i+1)+ ": " + precios);
                 espacios[i, col] = precios;
             }
         }
@@ -79,7 +73,6 @@ namespace MiBiblioteca_LC
             for (int i = 0; i < espacios.GetLength(0); i++)
             {
                 int precios = r.Next(0, 21);
-                //Console.WriteLine("ARTÍCULO "+(i+1)+ ": " + precios);
                 espacios[i, col] = precios;
             }
         }
